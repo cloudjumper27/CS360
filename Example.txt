@@ -1,0 +1,2 @@
+ECHO is on.
+echo > name.extension in command prompt to make files
